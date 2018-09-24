@@ -1,0 +1,11 @@
+.slot {
+    display: inline-block;
+    font-size: 70px;
+}
+
+.thing {
+    display: none;
+}
+h1 {
+    display: none;
+}
